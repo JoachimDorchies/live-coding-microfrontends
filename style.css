@@ -1,0 +1,15 @@
+.cart {
+  margin-bottom: 2rem;
+}
+
+.products {
+  display: flex;
+}
+
+.product {
+  margin-top: 1rem;
+}
+
+.product__actions {
+  margin-top: 0.5rem;
+}
